@@ -1,0 +1,1 @@
+# meteor-swagger-boilerplate
