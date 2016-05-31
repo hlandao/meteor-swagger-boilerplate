@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/6d46dce92eadc51f944c07400dbb3c85a44dc00a/meteor/meteor.d.ts",
+    "raw": "registry:dt/meteor#1.3.0+20160514174853",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/6d46dce92eadc51f944c07400dbb3c85a44dc00a/meteor/meteor.d.ts"
+  }
+}

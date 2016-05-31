@@ -1,0 +1,21 @@
+{
+  "useCache": true,
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "noImplicitAny": false,
+    "noLib": false
+  },
+  "filesGlob": [
+    "./server/**/*.ts",
+    "./typings/**/*.ts",
+    "!./node_modules/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
