@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "/Users/hlandao/Development/meteor-swagger-boilerplate/node_modules/angular2/typings/browser.d.ts",
+    "raw": "file:./node_modules/angular2/typings/browser.d.ts",
+    "typings": "/Users/hlandao/Development/meteor-swagger-boilerplate/node_modules/angular2/typings/browser.d.ts"
+  }
+}
